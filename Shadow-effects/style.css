@@ -1,0 +1,10 @@
+.shadow1 {
+    
+    text-shadow: 5px  1px 2px red;
+  }
+  .shadow2 {
+    padding: 30px;
+    background: rgb(42,9,1);
+    background: radial-gradient(circle, rgba(42,9,1,0.87718837535014) 14%, rgba(245,0,0,0.8631827731092436) 82%);
+    text-shadow: 1px 1px white;
+  }
